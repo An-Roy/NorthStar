@@ -1,0 +1,22 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+northstar_cache.db
+northstar_cache.db-wal
+northstar_cache.db-shm
+generated_media/
+temp_uploads/
+stored_pdfs/
+
+# Next.js / Node
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+
+# Secrets
+.env
+NorthStar.txt
+*.pdf
+*.txt
